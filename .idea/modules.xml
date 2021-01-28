@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/pygame_wrap1_end_test.iml" filepath="$PROJECT_DIR$/.idea/pygame_wrap1_end_test.iml" />
+      <module fileurl="file://$USER_HOME$/wrap_py_catalog/.idea/wrap_py_catalog.iml" filepath="$USER_HOME$/wrap_py_catalog/.idea/wrap_py_catalog.iml" />
     </modules>
   </component>
 </project>
